@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/emoutuou/.nuget/packages"
+    ]
+  }
+}
