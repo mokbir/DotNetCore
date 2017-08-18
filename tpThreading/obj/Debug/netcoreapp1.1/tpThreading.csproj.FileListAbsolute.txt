@@ -1,8 +1,0 @@
-/home/emoutuou/Documents/TpCore/tpThreading/bin/Debug/netcoreapp1.1/tpThreading.deps.json
-/home/emoutuou/Documents/TpCore/tpThreading/bin/Debug/netcoreapp1.1/tpThreading.runtimeconfig.json
-/home/emoutuou/Documents/TpCore/tpThreading/bin/Debug/netcoreapp1.1/tpThreading.runtimeconfig.dev.json
-/home/emoutuou/Documents/TpCore/tpThreading/bin/Debug/netcoreapp1.1/tpThreading.dll
-/home/emoutuou/Documents/TpCore/tpThreading/bin/Debug/netcoreapp1.1/tpThreading.pdb
-/home/emoutuou/Documents/TpCore/tpThreading/obj/Debug/netcoreapp1.1/tpThreading.AssemblyInfo.cs
-/home/emoutuou/Documents/TpCore/tpThreading/obj/Debug/netcoreapp1.1/tpThreading.dll
-/home/emoutuou/Documents/TpCore/tpThreading/obj/Debug/netcoreapp1.1/tpThreading.pdb

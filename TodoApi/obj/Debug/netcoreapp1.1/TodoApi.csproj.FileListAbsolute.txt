@@ -1,9 +1,0 @@
-/home/emoutuou/Documents/TpCore/TodoApi/bin/Debug/netcoreapp1.1/TodoApi.deps.json
-/home/emoutuou/Documents/TpCore/TodoApi/bin/Debug/netcoreapp1.1/TodoApi.runtimeconfig.json
-/home/emoutuou/Documents/TpCore/TodoApi/bin/Debug/netcoreapp1.1/TodoApi.runtimeconfig.dev.json
-/home/emoutuou/Documents/TpCore/TodoApi/bin/Debug/netcoreapp1.1/TodoApi.dll
-/home/emoutuou/Documents/TpCore/TodoApi/bin/Debug/netcoreapp1.1/TodoApi.pdb
-/home/emoutuou/Documents/TpCore/TodoApi/obj/Debug/netcoreapp1.1/TodoApi.csproj.CoreCompileInputs.cache
-/home/emoutuou/Documents/TpCore/TodoApi/obj/Debug/netcoreapp1.1/TodoApi.AssemblyInfo.cs
-/home/emoutuou/Documents/TpCore/TodoApi/obj/Debug/netcoreapp1.1/TodoApi.dll
-/home/emoutuou/Documents/TpCore/TodoApi/obj/Debug/netcoreapp1.1/TodoApi.pdb
