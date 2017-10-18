@@ -1,0 +1,16 @@
+﻿<tile>
+  <visual lang="fr-FR"  baseUri="http://localhost/WebApplication1/images/" branding="nameAndLogo">
+    <binding template="TileSquare150x150ImageAndText02" displayName="BL2016" branding="logo">
+      <image id="1" src="medium_ete.png" placement="background"/>
+      <text id="1" hint-style="bodySubtle">Tickets: 200</text>
+    </binding>
+    <binding template="TileWideImageAndText02">
+      <image id="1" src="wide_hiver.png" placement="background"/>
+      <text id="1" hint-style="subtitle">Tickets: 200</text>
+    </binding>
+    <binding template="TileSquare310x310ImageAndText02">
+      <image id="1" src="logobldarkheader_Wide.png" placement="background"/>
+      <text id="1" hint-style="bodySubtle">200</text>
+    </binding>
+  </visual>
+</tile>

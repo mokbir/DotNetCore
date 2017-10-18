@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/small_ete.png"/>
+      <square150x150logo src="/medium_ete.png"/>
+      <wide310x150logo src="/wide_ete.png"/>
+      <square310x310logo src="/large_ete.png"/>
+      <TileColor>#8bc53f</TileColor>
+      <TileImage src="/medium_ete.png" />
+    </tile>
+  </msapplication>
+</browserconfig>

@@ -1,0 +1,15 @@
+﻿<tile>
+  <visual lang="fr-FR">
+    <binding template="TileSquare150x150Text01" displayName="Filtre 1">
+      <text id="1" hint-style="captionSubtle">Filtre Marine 2</text>
+    </binding>
+
+    <binding template="TileWide310x150Text02">
+      <text id="1" hint-style="captionSubtle" hint-wrap="true">Filtre Marine 2</text>
+    </binding>
+
+    <binding template="TileSquare310x310Text02">
+      <text id="1" hint-style="captionSubtle">Filtre Marine 2</text>
+    </binding>
+  </visual>
+</tile>

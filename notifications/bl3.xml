@@ -1,0 +1,15 @@
+﻿<tile>
+  <visual lang="fr-FR">
+    <binding template="TileSquare150x150Text01" displayName="Filtre 2">
+      <text id="1" hint-style="captionSubtle">Filtre Maher</text>
+    </binding>
+
+    <binding template="TileWide310x150Text02">
+      <text id="1" hint-style="captionSubtle">Filtre Maher</text>
+    </binding>
+
+    <binding template="TileSquare310x310Text02">
+      <text id="1" hint-style="captionSubtle">Filtre Maher</text>
+    </binding>
+  </visual>
+</tile>
